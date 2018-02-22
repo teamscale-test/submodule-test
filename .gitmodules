@@ -1,0 +1,3 @@
+[submodule "submodule-embed"]
+	path = submodule-embed
+	url = git@github.com:teamscale-test/submodule-embed.git
